@@ -572,7 +572,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Poem for Pig Nose Chandini</h1>
+                <h1>Summer Collection Premium Picks</h1>
                 <p>Pandi pandi boddugaa, Buradalone muddugaa. Thindi tini santhoshanga, Thiruguthundi aanandanga.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
