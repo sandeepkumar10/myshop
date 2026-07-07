@@ -572,8 +572,8 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Potato Face Tomato Nose Chandini</h1>
-                <p>Discover the latest trends in fashion, technology and accessories curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
+                <h1>Poem for Pig Nose Chandini</h1>
+                <p>పంది పంది గుండ్రంగా, బురదలోనే చల్లగా. తిండి తిని సంతోషంగా, తిరుగుతుంది ఆనందంగా.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
